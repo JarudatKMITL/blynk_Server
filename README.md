@@ -19,12 +19,12 @@
 ## การติดตั้งและใช้งาน `Blynk Server`
 1. ดาวน์โหลดไฟล์ server จาก `github repository` ซึ่งในที่นี้จะใช้คำสั่ง wget ในการดาวน์โหลด 
 
-    - หากใช้ `Java 8` ให้ใช้คำสั่ง
+    - หากใช้ Java 8 ให้ใช้คำสั่ง
     ```        
          $ wget "https://github.com/blynkkk/blynk-server/releases/download/v0.41.14/server-0.41.14-java8.jar"
     ```
 
-    - หากใช้ `Java 11` ให้ใช้คำสั่ง
+    - หากใช้ Java 11 ให้ใช้คำสั่ง
 
     ```
         $ wget "https://github.com/blynkkk/blynk-server/releases/download/v0.41.14/server-0.41.14.jar"
@@ -51,7 +51,7 @@
     ```
     - จะปรากฎข้อความดังต่อไปนี้
 
-![image](img/1.png)
+![image](img/1.PNG)
 
 5. ทดลองเข้าใช้งาน Blynk Server 
     1. ผ่านหน้าเว็บไซต์โดยไปยัง URL
@@ -73,10 +73,11 @@
 
         - เมื่อเข้าสู่หน้าเว็บแล้วจะปรากฎหน้าเว็บดังต่อไปนี้
 
-        ![dashboard.png](img/3.png)
+        ![dashboard.png](img/3.PNG)
         
     2. Mobile Application
         1. Downdload Application `Blynk` 
 
         2. Login เข้าสู่ระบบ จะปรากฎหน้าต่าง Dashboard 
+        
         ![dashboard.png](img/4.PNG)
